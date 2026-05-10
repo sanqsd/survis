@@ -61,5 +61,19 @@ const generatedBibEntries = {
         "abstract": "This study describes patients’ interaction with a personalized web-based visualization displaying daily electronic patient-reported outcomes (ePRO) and wearable device data during outpatient chemotherapy.",
         "doi": "10.2196/62711",
         "url": "https://cancer.jmir.org/2025/1/e62711/"
+    },
+    "lin2025effectiveness": {
+        "title": "Effectiveness of mHealth Interventions to Improve Follow-Up and Management Among Solid Organ Transplant Recipients: Systematic Review and Meta-Analysis",
+        "author": "Lin, Xiaohong and Sun, Haiya and Fang, Jiaxin and Han, Zhufeng and Ding, Zhenshan and Guo, Jianding and Dong, Lei and Li, Xiangru and Liu, Hongxia",
+        "journal": "JMIR mHealth and uHealth",
+        "volume": "13",
+        "number": "1",
+        "pages": "e69795",
+        "year": "2025",
+        "publisher": "JMIR Publications",
+        "keywords": "category:clinical_evidence, type:meta_analysis, mHealth, self_management, rehospitalization",
+        "abstract": "This systematic review and meta-analysis of 23 studies (n=2022) found that mHealth interventions significantly improved self-care ability and reduced rehospitalization (OR 0.49) among organ transplant recipients. While mHealth showed potential in promoting medical regimen adherence and self-monitoring, no significant effects were found for mortality or rejection rates.",
+        "doi": "10.2196/69795",
+        "url": "https://mhealth.jmir.org/2025/1/e69795/"
     }
 };
