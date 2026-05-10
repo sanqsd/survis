@@ -117,4 +117,18 @@ const generatedBibEntries = {
         "doi": "10.3390/jcm13195939",
         "url": "https://doi.org/10.3390/jcm13195939"
     },
+    "ammann2021using": {
+        "title": "Using Technology to Facilitate Monitoring of Transplant Patients",
+        "author": "Ammann, Allison M. and Delman, Aaron M. and Shah, Shimul A.",
+        "journal": "Current Transplantation Reports",
+        "volume": "8",
+        "number": "3",
+        "pages": "228-234",
+        "year": "2021",
+        "publisher": "Springer",
+        "keywords": "category:mHealth, type:review, remote_monitoring, HIT, medication_adherence",
+        "abstract": "This 2021 review highlights the shift in transplant care from traditional EMR systems to mHealth, telemedicine, and electronic alert systems. It discusses the benefits of technology-driven monitoring in improving medication adherence, patient satisfaction, and cost-effectiveness. The summary emphasizes that as these technologies become more affordable, their impact on long-term patient outcomes will drive widespread adoption in the transplant community.",
+        "doi": "10.1007/s40472-021-00332-3",
+        "url": "https://doi.org/10.1007/s40472-021-00332-3"
+    }
 };
