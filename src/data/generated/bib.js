@@ -102,7 +102,7 @@ const generatedBibEntries = {
         "abstract": "Applying human-centered design (HCD), this study developed an RA dashboard to facilitate patient-clinician communication. Findings from focus groups highlighted that a 'one-size-fits-all' approach fails due to varying patient comprehension levels and health literacy. The results suggest that the ability to customize data display is crucial for tailoring dashboards to diverse patient needs, while also addressing clinician concerns regarding practical implementation logistics.",
         "doi": "10.1111/hex.13057",
         "url": "https://doi.org/10.1111/hex.13057"
-    }
+    },
     "kotsifa2024present": {
         "title": "Present and Future Applications of Artificial Intelligence in Kidney Transplantation",
         "author": "Kotsifa, Evgenia and Mavroeidis, Vasileios K.",
