@@ -88,7 +88,7 @@ const generatedBibEntries = {
         "abstract": "A superb demonstration of one of the wonders of technology providing the people with great aid is the employment of Artificial Intelligence in the medical field, and mainly the introduction of Clinical Decision Support Systems (CDSS). Nevertheless, non-’black-box’ AI systems have a significant problem, that is, although they are visible and understandable, there is still a considerable issue of trust by healthcare professionals. Explainable AI (XAI) technology is a means to overcome all the obstacles by unveiling more and offering the explanations of the procedures that AI performs in decision making. This study was conducted by examining various widely used approaches to XAI, which illustrate how XAI verifies the trustworthiness of CDSS and, consequently, facilitates the incorporation of AI-generated predictions into decision-making. Additionally, the paper also refers to the possible influence of XAI on healthcare, providing the patients’ benefits, gaining clinical trust, and facilitating delivery systems. This article highlights that an AI explanation is a key point in the process of narrowing the distance between the complexity of machine learning models and the medical domain where they are employed as reliable and trustworthy applications.",
         "doi": "10.1016/j.procs.2026.01.101",
         "url": "https://doi.org/10.1016/j.procs.2026.01.101"
-    }
+    },
     "liu2020patient": {
         "title": "Patient and clinician perspectives on a patient-facing dashboard that visualizes patient reported outcomes in rheumatoid arthritis",
         "author": "Liu, Lucy H. and Garrett, Sarah B. and Li, Jing and Ragouzeos, Dana and Berrean, Beth and Dohan, Daniel and Katz, Patricia P. and Barton, Jennifer L. and Yazdany, Jinoos and Schmajuk, Gabriela",
@@ -102,5 +102,5 @@ const generatedBibEntries = {
         "abstract": "Applying human-centered design (HCD), this study developed an RA dashboard to facilitate patient-clinician communication. Findings from focus groups highlighted that a 'one-size-fits-all' approach fails due to varying patient comprehension levels and health literacy. The results suggest that the ability to customize data display is crucial for tailoring dashboards to diverse patient needs, while also addressing clinician concerns regarding practical implementation logistics.",
         "doi": "10.1111/hex.13057",
         "url": "https://doi.org/10.1111/hex.13057"
-    },
+    }
 };
