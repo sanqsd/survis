@@ -1,17 +1,82 @@
 const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+    "Wingfield2024_Review": {
+        "author": "Wingfield, Laura R. and Salaun, Achille and Khan, Aparajita and Webb, Helena and Zhu, Tingting and Knight, Simon",
+        "journal": "Transplantation",
+        "keywords": "Category:Clinical_Context, Type:Systematic_Review",
+        "title": "Clinical Decision Support Systems Used in Transplantation: Are They Tools for Success or an Unnecessary Gadget? A Systematic Review",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "year": "2024"
+    },
+    "Wingfield2024_ICTSS": {
+        "author": "Wingfield, Laura R. and Wainwright, Katie and Knight, Simon and Webb, Helena",
+        "booktitle": "ICTSS",
+        "keywords": "Category:User_Perspectives, Type:Qualitative_Study",
+        "title": "A trusted friend in the middle of the night: End-user perspectives on AI aid for kidney transplant",
+        "type": "inproceedings",
+        "year": "2024"
+    },
+    "Liu2020": {
+        "author": "Liu, Lucy H. and others",
+        "journal": "Health Expectations",
+        "keywords": "Category:Design_Principles, Category:Dashboard",
+        "title": "Patient and clinician perspectives on a patient-facing dashboard",
+        "type": "article",
+        "year": "2020"
+    },
+    "Bartel2025": {
+        "author": "Bartel, Christianna and others",
+        "journal": "JMIR Cancer",
+        "keywords": "Category:Design_Principles, Category:Sensor_Data",
+        "title": "Design and Use of Patient-Facing Electronic Patient-Reported Outcomes",
+        "type": "article",
+        "year": "2025"
+    },
+    "Kotsifa2024": {
+        "author": "Kotsifa, Evgenia and Mavroeidis, Vasileios K.",
+        "journal": "Journal of Clinical Medicine",
+        "keywords": "Category:AI_Tech, Category:Kidney_Transplant",
+        "title": "Present and Future Applications of Artificial Intelligence in Kidney Transplantation",
+        "type": "article",
+        "year": "2024"
+    },
+    "Lin2025": {
+        "author": "Lin, Xiaohong and others",
+        "journal": "JMIR mHealth",
+        "keywords": "Category:mHealth, Type:Systematic_Review",
+        "title": "Effectiveness of mHealth Interventions in Solid Organ Transplant Recipients",
+        "type": "article",
+        "year": "2025"
+    },
+    "Ammann2021": {
+        "author": "Ammann, Allison M. and others",
+        "journal": "Current Transplantation Reports",
+        "keywords": "Category:mHealth, Category:Monitoring",
+        "title": "Using Technology to Facilitate Monitoring of Transplant Patients",
+        "type": "article",
+        "year": "2021"
+    },
+    "Arinze2014": {
+        "author": "Arinze, Bay",
+        "journal": "CCECE",
+        "keywords": "Category:Architecture, Category:Dashboard",
+        "title": "A Model for Delivering Smart Healthcare using Patient-Facing Dashboards",
+        "type": "article",
+        "year": "2014"
+    },
+    "Alzuabidia2026": {
+        "author": "Alzuabidia, Israa Akram Fadhil and others",
+        "journal": "Procedia Computer Science",
+        "keywords": "Category:AI_Tech, Category:XAI",
+        "title": "Enhancing Disease Prediction through Explainable AI in CDSS",
+        "type": "article",
+        "year": "2026"
+    },
+    "Prince2025": {
+        "author": "Prince, Eric W. and others",
+        "journal": "Frontiers in Radiology",
+        "keywords": "Category:Design_Principles, Category:XAI",
+        "title": "User-centered design to harness explainable AI in CDSS",
+        "type": "article",
+        "year": "2025"
     }
 };
