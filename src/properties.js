@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'Present a review of the visualization system';
 
 /**
  * Relative path to the data directory
