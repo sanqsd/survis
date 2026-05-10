@@ -76,4 +76,17 @@ const generatedBibEntries = {
         "doi": "10.2196/69795",
         "url": "https://mhealth.jmir.org/2025/1/e69795/"
     }
+    "alzuabidi2026enhancing": {
+        "title": "Enhancing Disease Prediction in Healthcare through Explainable AI in Clinical Decision Support Systems",
+        "author": "Alzuabidi, Israa Akram Fadhil and Mahmood, Hamsa Emad and Hussein, Reem Razzaq Abdul and Ahmed, Amjed Abbas and Al-Dmour, Nidal A. and Najim, Ali Hamzah and Abdeldayem, Marwan",
+        "journal": "Procedia Computer Science",
+        "volume": "275",
+        "pages": "885-894",
+        "year": "2026",
+        "publisher": "Elsevier",
+        "keywords": "category:XAI, type:theoretical_framework, trust, CDSS",
+        "abstract": "A superb demonstration of one of the wonders of technology providing the people with great aid is the employment of Artificial Intelligence in the medical field, and mainly the introduction of Clinical Decision Support Systems (CDSS). Nevertheless, non-’black-box’ AI systems have a significant problem, that is, although they are visible and understandable, there is still a considerable issue of trust by healthcare professionals. Explainable AI (XAI) technology is a means to overcome all the obstacles by unveiling more and offering the explanations of the procedures that AI performs in decision making. This study was conducted by examining various widely used approaches to XAI, which illustrate how XAI verifies the trustworthiness of CDSS and, consequently, facilitates the incorporation of AI-generated predictions into decision-making. Additionally, the paper also refers to the possible influence of XAI on healthcare, providing the patients’ benefits, gaining clinical trust, and facilitating delivery systems. This article highlights that an AI explanation is a key point in the process of narrowing the distance between the complexity of machine learning models and the medical domain where they are employed as reliable and trustworthy applications.",
+        "doi": "10.1016/j.procs.2026.01.101",
+        "url": "https://doi.org/10.1016/j.procs.2026.01.101"
+    },
 };
