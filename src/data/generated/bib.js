@@ -24,4 +24,16 @@ const generatedBibEntries = {
         "doi": "10.1007/978-3-031-80889-0_14",
         "url": "https://doi.org/10.1007/978-3-031-80889-0_14"
     },
+    "arinze2014model": {
+        "title": "A model for delivering smart healthcare using patient-facing dashboards, Clinical DSS and Electronic Health Records",
+        "author": "Arinze, Bay",
+        "booktitle": "2014 IEEE 27th Canadian Conference on Electrical and Computer Engineering (CCECE)",
+        "pages": "1-4",
+        "year": "2014",
+        "organization": "IEEE",
+        "keywords": "category:system_architecture, type:model_proposal, dashboard, EHR",
+        "abstract": "The past few years have seen a momentum shift in the healthcare industry towards using new information and communication technologies to enable patients to play a greater role in their own healthcare delivery. This paper proposes a model for linking patients to EHRs through patient-facing digital dashboards. The proposed model will integrate Clinical DSS to provide proactive and reactive advice/alerts to patients and providers alike. Wearable computing and mobile computing will be used to continuously collect patient data and connect patients to healthcare updates, alerts and consultations. Successful implementation of the system proposed will help to advance healthcare practice, healthcare delivery models, and the role of the patient in healthcare. For healthcare organizations, evidence already shows that greater patient involvement in their healthcare leads to improved outcomes.",
+        "doi": "10.1109/CCECE.2014.6900996",
+        "url": "https://doi.org/10.1109/CCECE.2014.6900996"
+    }
 };
