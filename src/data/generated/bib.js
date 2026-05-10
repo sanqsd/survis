@@ -35,5 +35,18 @@ const generatedBibEntries = {
         "abstract": "The past few years have seen a momentum shift in the healthcare industry towards using new information and communication technologies to enable patients to play a greater role in their own healthcare delivery. This paper proposes a model for linking patients to EHRs through patient-facing digital dashboards. The proposed model will integrate Clinical DSS to provide proactive and reactive advice/alerts to patients and providers alike. Wearable computing and mobile computing will be used to continuously collect patient data and connect patients to healthcare updates, alerts and consultations. Successful implementation of the system proposed will help to advance healthcare practice, healthcare delivery models, and the role of the patient in healthcare. For healthcare organizations, evidence already shows that greater patient involvement in their healthcare leads to improved outcomes.",
         "doi": "10.1109/CCECE.2014.6900996",
         "url": "https://doi.org/10.1109/CCECE.2014.6900996"
+    },
+    "prince2025current": {
+        "title": "Current state and promise of user-centered design to harness explainable AI in clinical decision-support systems for patients with CNS tumors",
+        "author": "Prince, Eric W. and Mirsky, David M. and Hankinson, Todd C. and Görg, Carsten",
+        "journal": "Frontiers in Radiology",
+        "volume": "4",
+        "pages": "1433457",
+        "year": "2025",
+        "publisher": "Frontiers Media SA",
+        "keywords": "category:XAI, type:user_centered_design, neuro_oncology, clinical_decision_support",
+        "abstract": "In neuro-oncology, MR imaging is crucial for obtaining detailed brain images to identify neoplasms, plan treatment, guide surgical intervention, and monitor the tumor's response. Recent AI advances in neuroimaging have promising applications in neuro-oncology, including guiding clinical decisions and improving patient management. However, the lack of clarity on how AI arrives at predictions has hindered its clinical translation. Explainable AI (XAI) methods aim to improve trustworthiness and informativeness, but their success depends on considering end-users’ (clinicians') specific context and preferences. User-Centered Design (UCD) prioritizes user needs in an iterative design process, involving users throughout, providing an opportunity to design XAI systems tailored to clinical neuro-oncology.",
+        "doi": "10.3389/fradi.2024.1433457",
+        "url": "https://doi.org/10.3389/fradi.2024.1433457"
     }
 };
