@@ -103,4 +103,18 @@ const generatedBibEntries = {
         "doi": "10.1111/hex.13057",
         "url": "https://doi.org/10.1111/hex.13057"
     }
+    "kotsifa2024present": {
+        "title": "Present and Future Applications of Artificial Intelligence in Kidney Transplantation",
+        "author": "Kotsifa, Evgenia and Mavroeidis, Vasileios K.",
+        "journal": "Journal of Clinical Medicine",
+        "volume": "13",
+        "number": "19",
+        "pages": "5939",
+        "year": "2024",
+        "publisher": "MDPI",
+        "keywords": "category:clinical_context, type:systematic_review, kidney_transplant, surgical_data_science, personalized_care",
+        "abstract": "This comprehensive 2024 review maps the landscape of AI in kidney transplantation (KT). It details applications in pre-transplant donor-recipient matching, AI-assisted surgical techniques, and predictive models for long-term graft survival. The authors argue that while AI addresses problems traditional methods cannot, the key to future success lies in 'fostering collaboration' between technology and clinicians to enable advanced, personalised care as a clinical standard.",
+        "doi": "10.3390/jcm13195939",
+        "url": "https://doi.org/10.3390/jcm13195939"
+    },
 };
