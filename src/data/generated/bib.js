@@ -48,5 +48,18 @@ const generatedBibEntries = {
         "abstract": "In neuro-oncology, MR imaging is crucial for obtaining detailed brain images to identify neoplasms, plan treatment, guide surgical intervention, and monitor the tumor's response. Recent AI advances in neuroimaging have promising applications in neuro-oncology, including guiding clinical decisions and improving patient management. However, the lack of clarity on how AI arrives at predictions has hindered its clinical translation. Explainable AI (XAI) methods aim to improve trustworthiness and informativeness, but their success depends on considering end-users’ (clinicians') specific context and preferences. User-Centered Design (UCD) prioritizes user needs in an iterative design process, involving users throughout, providing an opportunity to design XAI systems tailored to clinical neuro-oncology.",
         "doi": "10.3389/fradi.2024.1433457",
         "url": "https://doi.org/10.3389/fradi.2024.1433457"
+    },
+    "bartel2025design": {
+        "title": "Design and Use of Patient-Facing Electronic Patient-Reported Outcomes and Sensor Data Visualizations During Outpatient Chemotherapy",
+        "author": "Bartel, Christianna and Chen, Leeann and Huang, Weiyu and Li, Qichang and Li, Qingyang and Fedor, Jennifer and Durica, Krina C. and Low, Carissa A.",
+        "journal": "JMIR Cancer",
+        "volume": "11",
+        "pages": "e62711",
+        "year": "2025",
+        "publisher": "JMIR Publications",
+        "keywords": "category:patient_facing, type:sensor_data, oncology, ePRO, remote_monitoring",
+        "abstract": "This study describes patients’ interaction with a personalized web-based visualization displaying daily electronic patient-reported outcomes (ePRO) and wearable device data during outpatient chemotherapy.",
+        "doi": "10.2196/62711",
+        "url": "https://cancer.jmir.org/2025/1/e62711/"
     }
 };
