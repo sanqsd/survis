@@ -89,4 +89,18 @@ const generatedBibEntries = {
         "doi": "10.1016/j.procs.2026.01.101",
         "url": "https://doi.org/10.1016/j.procs.2026.01.101"
     }
+    "liu2020patient": {
+        "title": "Patient and clinician perspectives on a patient-facing dashboard that visualizes patient reported outcomes in rheumatoid arthritis",
+        "author": "Liu, Lucy H. and Garrett, Sarah B. and Li, Jing and Ragouzeos, Dana and Berrean, Beth and Dohan, Daniel and Katz, Patricia P. and Barton, Jennifer L. and Yazdany, Jinoos and Schmajuk, Gabriela",
+        "journal": "Health Expectations",
+        "volume": "23",
+        "number": "4",
+        "pages": "846-859",
+        "year": "2020",
+        "publisher": "Wiley Online Library",
+        "keywords": "category:patient_facing, type:qualitative_study, dashboard, health_literacy, HCD",
+        "abstract": "Applying human-centered design (HCD), this study developed an RA dashboard to facilitate patient-clinician communication. Findings from focus groups highlighted that a 'one-size-fits-all' approach fails due to varying patient comprehension levels and health literacy. The results suggest that the ability to customize data display is crucial for tailoring dashboards to diverse patient needs, while also addressing clinician concerns regarding practical implementation logistics.",
+        "doi": "10.1111/hex.13057",
+        "url": "https://doi.org/10.1111/hex.13057"
+    },
 };
